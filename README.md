@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Repo](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [Repo](https://github.com/its-me-musa/base-apparel-coming-soon)
+- Live Site URL: [Live Site](https://dazzling-mestorf-4d8edb.netlify.app)
 
 ## My process
 
